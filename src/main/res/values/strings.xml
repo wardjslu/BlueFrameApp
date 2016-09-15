@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlueFrame</string>
+    <string name="error_bluetooth_not_supported">Bluetooth Not Supported</string>
+    <string name="retry_message">Retry</string>
+    <string name="error_bluetooth_connection_lost">Bluetooth Connection Lost</string>
+    <string name="pause">Pause</string>
+    <string name="retry">Retry</string>
+    <string name="terminal">Terminal</string>
+</resources>
